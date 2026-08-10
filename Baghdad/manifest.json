@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.baghdad",
+    "name": "Baghdad",
+    "description": "Map of Baghdad, Iraq's capital, from Baghdad International Airport to Sadr City and Kadhimiya. 960,000+ OSM buildings, 2024 Iraqi census population data, Baghdad International Airport, three universities, the Al-Kadhimiya Shrine, simulated traffic.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

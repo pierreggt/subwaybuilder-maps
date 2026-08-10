@@ -1,0 +1,21 @@
+{
+    "code": "BGD",
+    "name": "Baghdad",
+    "bbox": [
+        44.14,
+        33.14,
+        44.6,
+        33.49
+    ],
+    "description": "Map of Baghdad, Iraq's capital, from Baghdad International Airport to Sadr City and Kadhimiya.",
+    "population": 3088300,
+    "initialViewState": {
+        "latitude": 33.3152,
+        "longitude": 44.3661,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "IQ"
+}
