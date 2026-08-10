@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-10",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps/releases/download/thr-v1.0.0/tehran_v1.0.0.zip",
+      "sha256": "1ee2fa20e501ce888c373a1578766bbfda9f7f21d3f2fe1eeb508a1aae3409ed"
+    }
+  ]
+}

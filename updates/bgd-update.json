@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-10",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps/releases/download/bgd-v1.0.0/baghdad_v1.0.0.zip",
+      "sha256": "0d0679abee2af995ad82b306ccb9246278751eebc695e3023fd8264a3c69a1af"
+    }
+  ]
+}

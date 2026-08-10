@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-10",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps/releases/download/hbe-v1.0.0/alexandria_v1.0.0.zip",
+      "sha256": "7cd62120a3ad07fe6a7c00289062622f2e26967b4359f029fafe3cf2ceab09c2"
+    }
+  ]
+}

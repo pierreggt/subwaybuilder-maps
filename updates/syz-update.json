@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-10",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps/releases/download/syz-v1.0.0/shiraz_v1.0.0.zip",
+      "sha256": "d7b2e59691afccc6b8cb1e36fca9d3880a733bfc5bb42d0839539f193644abf0"
+    }
+  ]
+}

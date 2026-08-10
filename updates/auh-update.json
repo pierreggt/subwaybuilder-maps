@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-10",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps/releases/download/auh-v1.0.0/abu-dhabi_v1.0.0.zip",
+      "sha256": "8dce94a6e9ff01f02746fb59923d80746bc11289f06624505e58e08476a43102"
+    }
+  ]
+}

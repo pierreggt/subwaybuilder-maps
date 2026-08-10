@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-10",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps/releases/download/mhd-v1.0.0/mashhad_v1.0.0.zip",
+      "sha256": "834d5e407c2b2891804bc9adc90a9ce2c987c6a162a2dbf80cd0c907a64cae74"
+    }
+  ]
+}

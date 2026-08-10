@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-10",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps/releases/download/bey-v1.0.0/beirut_v1.0.0.zip",
+      "sha256": "8855188cf1439c2fe62b2263d9091f36c5aecf9830dde84abf4d39c4992fd311"
+    }
+  ]
+}

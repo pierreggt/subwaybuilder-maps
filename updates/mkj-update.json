@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-10",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps/releases/download/mkj-v1.0.0/mecca-jeddah_v1.0.0.zip",
+      "sha256": "17c32fc9c11635158be5bb3e40bebe31ece9276b67aed2cf83e3f81885824f7d"
+    }
+  ]
+}

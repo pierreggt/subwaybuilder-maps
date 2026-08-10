@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-10",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps/releases/download/alp-v1.0.0/aleppo_v1.0.0.zip",
+      "sha256": "40015a18c4154366931ca18c0e90ac6c0b03912cd6fbbfbb64fcea5bf7bc5f56"
+    }
+  ]
+}
