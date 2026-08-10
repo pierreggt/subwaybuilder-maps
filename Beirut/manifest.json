@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.beirut",
+    "name": "Beirut",
+    "description": "Map of Greater Beirut, from Rafic Hariri International Airport to Jounieh, spanning the Beirut and Mount Lebanon urban corridor. 119,000+ OSM buildings, American University of Beirut, simulated traffic.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

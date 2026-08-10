@@ -1,0 +1,21 @@
+{
+    "code": "MHD",
+    "name": "Mashhad",
+    "bbox": [
+        59.38,
+        36.15,
+        59.78,
+        36.42
+    ],
+    "description": "Map of Mashhad, Iran's second-largest city and major Shia pilgrimage destination centered on the Imam Reza shrine.",
+    "population": 1644000,
+    "initialViewState": {
+        "latitude": 36.28,
+        "longitude": 59.58,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "IR"
+}

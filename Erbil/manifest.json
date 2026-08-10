@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.erbil",
+    "name": "Erbil",
+    "description": "Map of Erbil (Hewler), capital of the Kurdistan Region of Iraq, from Erbil International Airport to the historic Citadel. 250,000+ OSM buildings, 2024 Iraqi census population data, Erbil International Airport, three universities, the Erbil Citadel, simulated traffic.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

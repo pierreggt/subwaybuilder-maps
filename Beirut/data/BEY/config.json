@@ -1,0 +1,21 @@
+{
+    "code": "BEY",
+    "name": "Beirut",
+    "bbox": [
+        35.42,
+        33.7,
+        35.62,
+        34.0
+    ],
+    "description": "Map of Greater Beirut, from Rafic Hariri International Airport to Jounieh, spanning the Beirut and Mount Lebanon urban corridor.",
+    "population": 882100,
+    "initialViewState": {
+        "latitude": 33.8938,
+        "longitude": 35.5018,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "LB"
+}

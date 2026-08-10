@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.mashhad",
+    "name": "Mashhad",
+    "description": "Map of Mashhad, Iran's second-largest city and major Shia pilgrimage destination centered on the Imam Reza shrine. 336,000+ OSM buildings, 2016 Iranian census population data, Mashhad International Airport, two universities, simulated traffic.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

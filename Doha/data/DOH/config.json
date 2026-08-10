@@ -1,0 +1,21 @@
+{
+    "code": "DOH",
+    "name": "Doha",
+    "bbox": [
+        51.31,
+        25.17,
+        51.65,
+        25.45
+    ],
+    "description": "Map of Doha, Qatar, from Hamad International Airport to Lusail, spanning the full Doha Metro network.",
+    "population": 1071450,
+    "initialViewState": {
+        "latitude": 25.29,
+        "longitude": 51.53,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "QA"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.tehran",
+    "name": "Tehran",
+    "description": "Map of Tehran, Iran's capital and largest metropolitan area, including Karaj, from Mehrabad Airport to Imam Khomeini International Airport. 815,000+ OSM buildings, 2016 Iranian census population data, six universities, simulated traffic.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

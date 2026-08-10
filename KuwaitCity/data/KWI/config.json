@@ -1,0 +1,21 @@
+{
+    "code": "KWI",
+    "name": "Kuwait City",
+    "bbox": [
+        47.6,
+        29.0,
+        48.15,
+        29.45
+    ],
+    "description": "Map of Kuwait City, from the airport to Jahra and Fahaheel, covering all six governorates of Greater Kuwait.",
+    "population": 1913950,
+    "initialViewState": {
+        "latitude": 29.3697,
+        "longitude": 47.9783,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "KW"
+}

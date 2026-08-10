@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.riyadh",
+    "name": "Riyadh",
+    "description": "Map of Riyadh, Saudi Arabia's capital, featuring the new 6-line Riyadh Metro network, from King Khalid International Airport to Diriyah. 559,000+ OSM buildings, 2022 Saudi census population data, three universities, King Abdullah Financial District, simulated traffic.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

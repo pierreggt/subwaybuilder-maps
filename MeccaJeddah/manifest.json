@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.meccajeddah",
+    "name": "Mecca & Jeddah",
+    "description": "Combined map of Mecca, Islam's holiest city, and Jeddah, its Red Sea gateway, connected by the Haramain corridor. 528,000+ OSM buildings, 2022 Saudi census population data, King Abdulaziz International Airport, Masjid al-Haram, King Abdulaziz University, Umm Al-Qura University, simulated traffic.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

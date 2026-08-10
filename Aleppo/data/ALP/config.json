@@ -1,0 +1,21 @@
+{
+    "code": "ALP",
+    "name": "Aleppo",
+    "bbox": [
+        37.0,
+        36.03,
+        37.33,
+        36.36
+    ],
+    "description": "Map of Aleppo, Syria's second-largest city, from the historic Old City to Aleppo International Airport.",
+    "population": 981800,
+    "initialViewState": {
+        "latitude": 36.1992,
+        "longitude": 37.1637,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "SY"
+}

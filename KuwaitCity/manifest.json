@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.kuwaitcity",
+    "name": "Kuwait City",
+    "description": "Map of Kuwait City, from the airport to Jahra and Fahaheel, covering all six governorates of Greater Kuwait. 167,000+ OSM buildings, 2021 census population by governorate, Kuwait University, The Avenues Mall, simulated traffic.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

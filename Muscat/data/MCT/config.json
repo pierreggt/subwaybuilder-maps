@@ -1,0 +1,21 @@
+{
+    "code": "MCT",
+    "name": "Muscat",
+    "bbox": [
+        58.13,
+        23.5,
+        58.65,
+        23.66
+    ],
+    "description": "Map of Muscat, capital of Oman, from the international airport to Old Muscat, spanning the full coastal urban corridor.",
+    "population": 592400,
+    "initialViewState": {
+        "latitude": 23.6,
+        "longitude": 58.4,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "OM"
+}

@@ -1,0 +1,21 @@
+{
+    "code": "RUH",
+    "name": "Riyadh",
+    "bbox": [
+        46.51,
+        24.53,
+        46.89,
+        25.01
+    ],
+    "description": "Map of Riyadh, Saudi Arabia's capital, featuring the new 6-line Riyadh Metro network, from King Khalid International Airport to Diriyah.",
+    "population": 3552550,
+    "initialViewState": {
+        "latitude": 24.71,
+        "longitude": 46.7,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "SA"
+}

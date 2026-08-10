@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.muscat",
+    "name": "Muscat",
+    "description": "Map of Muscat, capital of Oman, from the international airport to Old Muscat, spanning the full coastal urban corridor. 82,000+ OSM buildings, Sultan Qaboos University, simulated traffic.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

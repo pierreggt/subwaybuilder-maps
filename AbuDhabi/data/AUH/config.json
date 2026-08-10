@@ -1,0 +1,21 @@
+{
+    "code": "AUH",
+    "name": "Abu Dhabi",
+    "bbox": [
+        54.33,
+        24.28,
+        54.65,
+        24.58
+    ],
+    "description": "Map of Abu Dhabi, capital of the UAE, from Zayed International Airport to Yas Island and Saadiyat Island.",
+    "population": 1170100,
+    "initialViewState": {
+        "latitude": 24.47,
+        "longitude": 54.37,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "AE"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.doha",
+    "name": "Doha",
+    "description": "Map of Doha, Qatar, from Hamad International Airport to Lusail, spanning the full Doha Metro network. 240,000+ OSM buildings, 2020 Qatar census population data by municipality, Qatar University, Education City, simulated traffic.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

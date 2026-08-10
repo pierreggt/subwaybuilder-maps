@@ -1,0 +1,21 @@
+{
+    "code": "MOS",
+    "name": "Mosul",
+    "bbox": [
+        42.9691,
+        36.1816,
+        43.2891,
+        36.5016
+    ],
+    "description": "Map of Mosul, Iraq's second-largest city, spanning both banks of the Tigris from the airport to the historic Old City.",
+    "population": 393800,
+    "initialViewState": {
+        "latitude": 36.3416,
+        "longitude": 43.1291,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "IQ"
+}

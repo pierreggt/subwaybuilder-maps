@@ -1,0 +1,21 @@
+{
+    "code": "DAM",
+    "name": "Damascus",
+    "bbox": [
+        36.15,
+        33.35,
+        36.6,
+        33.68
+    ],
+    "description": "Map of Damascus, Syria's capital, from the historic Old City to Damascus International Airport.",
+    "population": 1685050,
+    "initialViewState": {
+        "latitude": 33.5131,
+        "longitude": 36.3096,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "SY"
+}

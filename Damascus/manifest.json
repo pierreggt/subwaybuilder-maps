@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.damascus",
+    "name": "Damascus",
+    "description": "Map of Damascus, Syria's capital, from the historic Old City to Damascus International Airport. Real 2025 population and airport traffic data, Damascus University, Adra Industrial City, simulated traffic.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

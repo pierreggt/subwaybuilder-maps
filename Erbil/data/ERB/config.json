@@ -1,0 +1,21 @@
+{
+    "code": "ERB",
+    "name": "Erbil",
+    "bbox": [
+        43.85,
+        36.03,
+        44.17,
+        36.35
+    ],
+    "description": "Map of Erbil (Hewler), capital of the Kurdistan Region of Iraq, from Erbil International Airport to the historic Citadel.",
+    "population": 389800,
+    "initialViewState": {
+        "latitude": 36.1912,
+        "longitude": 44.0094,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "IQ"
+}

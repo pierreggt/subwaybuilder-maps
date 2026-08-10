@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.mosul",
+    "name": "Mosul",
+    "description": "Map of Mosul, Iraq's second-largest city, spanning both banks of the Tigris from the airport to the historic Old City. 170,000+ OSM buildings, 2024 Iraqi census population data, Mosul International Airport, University of Mosul, simulated traffic.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

@@ -1,0 +1,21 @@
+{
+    "code": "THR",
+    "name": "Tehran",
+    "bbox": [
+        50.69,
+        35.36,
+        51.62,
+        35.99
+    ],
+    "description": "Map of Tehran, Iran's capital and largest metropolitan area, from Mehrabad Airport to Imam Khomeini International Airport and the Karaj corridor.",
+    "population": 7962850,
+    "initialViewState": {
+        "latitude": 35.7,
+        "longitude": 51.4,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "IR"
+}

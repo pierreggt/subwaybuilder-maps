@@ -1,0 +1,21 @@
+{
+    "code": "MKJ",
+    "name": "Mecca & Jeddah",
+    "bbox": [
+        39.05,
+        21.3,
+        40.01,
+        21.8
+    ],
+    "description": "Combined map of Mecca, Islam's holiest city, and Jeddah, its Red Sea gateway, connected by the Haramain corridor.",
+    "population": 3380200,
+    "initialViewState": {
+        "latitude": 21.54,
+        "longitude": 39.19,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "SA"
+}
