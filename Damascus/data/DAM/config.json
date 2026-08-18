@@ -8,7 +8,7 @@
         33.68
     ],
     "description": "Map of Damascus, Syria's capital, from the historic Old City to Damascus International Airport.",
-    "population": 1685050,
+    "population": 1684750,
     "initialViewState": {
         "latitude": 33.5131,
         "longitude": 36.3096,
@@ -16,6 +16,6 @@
         "bearing": 0
     },
     "creator": "pierreggt",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "country": "SY"
 }

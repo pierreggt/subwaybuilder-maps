@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-18",
+      "changelog": "Fix: Damascus University demand split across its 4 real campuses instead of one over-concentrated point.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps/releases/download/dam-v1.0.1/damascus_v1.0.1.zip",
+      "sha256": "4c97ffebd7698474efb5dca07fae6b84ec95845a5f6ef512744082cf682dde58"
+    },
+    {
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-10",
